@@ -1,0 +1,35 @@
+_repo: Emmy-Lou-s-Road-to-Grace--Being-a-Little-Pilgrim-s-Progress_38553
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Harker, G. A.
+    gutenberg_agent_id: '39526'
+    url: http://www.gutenberg.org/2009/agents/39526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martin, George Madden
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '25889'
+    url: http://www.gutenberg.org/2009/agents/25889
+description: It was all very perplexing to Emmy Lou going along the rocky road to
+  learning in school. Also the rocky road of religion, who was right? Why do people
+  have to be Presbyterians, Episcopalians, Methodists, and not just Christians?
+gutenberg_issued: '2012-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coming of age -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'Emmy Lou''s Road to Grace: Being a Little Pilgrim''s Progress'
+url: http://www.gutenberg.org/ebooks/38553
